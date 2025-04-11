@@ -2,11 +2,6 @@
 🧮 Basic Calculator
 A simple calculator that performs basic arithmetic operations: addition, subtraction, multiplication, and division. Ideal for beginners learning programming or UI development.
 
-🚀 Features
-Add, Subtract, Multiply, Divide
-
-Clean and intuitive UI (for GUI version)
-
 Keyboard input support (optional)
 
 Error handling for invalid inputs and division by zero
