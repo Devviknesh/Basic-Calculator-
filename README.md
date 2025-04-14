@@ -9,8 +9,6 @@ Error handling for invalid inputs and division by zero
 🛠️ Built With
 Frontend: HTML, CSS, JavaScript (for web version)
 
-OR
-
 Backend: Python / Java / C++ / (Your Language)
 
 🖥️ Demo
