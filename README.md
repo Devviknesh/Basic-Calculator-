@@ -19,7 +19,6 @@ Example:
 Web Version (HTML/CSS/JS)
 Clone the repo
 
-bash
 Copy
 Edit
 git clone https://github.com/yourusername/basic-calculator.git
