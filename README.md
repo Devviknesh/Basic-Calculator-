@@ -11,10 +11,6 @@ Frontend: HTML, CSS, JavaScript (for web version)
 
 Backend: Python / Java / C++ / (Your Language)
 
-🖥️ Demo
-Include screenshots or a link to a demo here
-Example:
-
 📦 How to Run
 Web Version (HTML/CSS/JS)
 Clone the repo
