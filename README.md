@@ -15,7 +15,7 @@ Backend: Python / Java / C++ / (Your Language)
 Web Version (HTML/CSS/JS)
 Clone the repo
 
-Copy
+
 Edit
 git clone https://github.com/yourusername/basic-calculator.git
 Open index.html in your browser
