@@ -21,7 +21,6 @@ Copy
 Edit
 python calculator.py
 🧠 How It Works
-Basic logic:
 
 text
 Copy
