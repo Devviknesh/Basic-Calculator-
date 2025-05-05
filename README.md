@@ -12,8 +12,6 @@ Backend: Python / Java / C++ / (Your Language
 Edit
 git clone https://github.com/yourusername/basic-calculator.git
 Open index.html in your browser
-
-Python Version
 Run the script:
 
 bash
