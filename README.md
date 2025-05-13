@@ -14,10 +14,6 @@ git clone https://github.com/yourusername/basic-calculator.git
 Open index.html in your browser
 Run the script:
 Copy
-Edit
-python calculator.py
-🧠 How It Works
-
 text
 Copy
 Edit
