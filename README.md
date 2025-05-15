@@ -13,7 +13,6 @@ Edit
 git clone https://github.com/yourusername/basic-calculator.git
 Open index.html in your browser
 Run the script:
-Copy
 text
 Copy
 Edit
