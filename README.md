@@ -14,8 +14,6 @@ git clone https://github.com/yourusername/basic-calculator.git
 Open index.html in your browse
 text
 Copy
-Edit
-User Input → Operation Selected → Result Displayed
 Handles:
 
 Two numeric inputs
