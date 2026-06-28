@@ -28,6 +28,6 @@ Edge case: Division by 0
 Feel free to fork the project and submit pull requests for improvements!
 
 📄 License
-This project is open-source and available under the MIT License.
+This project is open-source and available under the MIT.
 
 ✨ Author
