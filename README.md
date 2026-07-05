@@ -13,7 +13,7 @@ Edit
 git clone https://github.com/yourusername/basic-calculator.git
 Open index.html in your browse
 text
-Copy,
+Copy.
 Handles:
 
 Two numeric inputs
