@@ -12,7 +12,7 @@ Backend: Python / Java / C++ / (Your Language
 Edit
 git clone https://github.com/yourusername/basic-calculator.git
 Open index.html in your browse
-text
+text.
 Copy.
 Handles:
 
