@@ -5,7 +5,7 @@ A simple calculator that performs basic arithmetic operations: addition, subtrac
 Error handling for invalid inputs and division by zero
 
 🛠️ Built With
-Frontend: HTML, CSS, JavaScript (for web version)
+Frontend: HTML, CSS, JavaScriptt (for web version)
 
 Backend: Python / Java / C++ / (Your Language
 
