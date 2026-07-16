@@ -7,7 +7,7 @@ Error handling for invalid inputs and division by zero
 🛠️ Built With
 Frontend: HTML, CSS, JavaScriptt (for web version)
 
-Backend: Python / Java / C++ / (Your Language
+Backend: Python / Java / C++ 
 
 Edit
 git clone https://github.com/yourusername/basic-calculator.git
