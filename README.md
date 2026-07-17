@@ -30,4 +30,4 @@ Feel free to fork the project and submit pull requests for improvements!
 📄 License
 This project is open-source and available under the MIT.
 
-✨ Author
+
